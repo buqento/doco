@@ -1,4 +1,3 @@
 <?php
-echo "hello iqbal";
-echo "<h1>welcome</h1>"
+echo "<h1>welcome to the jungle</h1>"
 ?>
