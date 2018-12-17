@@ -1,3 +1,4 @@
 <?php
-echo "saya sedang sange";
+echo "hello iqbal";
+echo "<h1>welcome</h1>"
 ?>
